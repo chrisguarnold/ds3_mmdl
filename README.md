@@ -7,6 +7,7 @@ Repo for the multimodal deep learning class at the DS3 data science summer schoo
 # Google Collab 
 * Code Nr. 1: https://colab.research.google.com/drive/1ZKqndxBsSZ2Yuu-kgafJnAgvnYDfHDjm?usp=sharing
 * Code Nr. 2: https://colab.research.google.com/drive/1HVb5yBkN1TSiCo_1Nf4RW6RQ6aZgJO8w?usp=sharing
+* Code Nr. 3: https://keras.io/examples/nlp/multimodal_entailment/
 
 # Lecture Slides 
 * In this repo 
