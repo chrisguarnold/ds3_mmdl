@@ -1,7 +1,7 @@
 # DS3 Data Science Summer School 
 Repo for the multimodal deep learning class at the DS3 data science summer school
 * Chris Arnold (Cardiff Uni)
-* August 2022
+* August 2023
 
 
 # Google Collab 
